@@ -1,6 +1,6 @@
 Redesign Concept.
 
-	My overall concept/theme will be Outer Space. I want to keep it pretty simple. Black backgrounds with white lettering. I'll throw a few pictures of planets or maybe an alien. I'm toying with the idea of making the content look like a spaceship but that sounds kind of difficult.  
+My overall concept/theme will be Outer Space. I want to keep it pretty simple. Black backgrounds with white lettering. I'll throw a few pictures of planets or maybe an alien. I'm toying with the idea of making the content look like a spaceship but that sounds kind of difficult.  
 	
 I hope that I create a page that's easy to read and functional on all screen sizes. I have a thing for sites that are centered. I regularly use my computer for surfing the web, but for this and the last assignment I used my boyfriend's desktop. His screen is HUGE compared to mine. With the sites that are designed in the F patterm discussed in the video, the content looks awkaward and almsot stretched across the bigger screen. The design would like better on my tiny screen, but kind of fails in the larger sizes. 
 
